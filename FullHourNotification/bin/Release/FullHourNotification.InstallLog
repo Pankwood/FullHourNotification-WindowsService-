@@ -27,3 +27,29 @@ Parâmetros afetados são:
    logtoconsole = 
    logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
    assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Instalando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Instalando o serviço FullHourNotification...
+Serviço FullHourNotification foi instalado com êxito.
+Criando a origem de EventLog FullHourNotification no log Application...
+Confirmando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Instalando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Instalando o serviço Full Hour Notification...
+Serviço Full Hour Notification foi instalado com êxito.
+Criando a origem de EventLog Full Hour Notification no log Application...
+Confirmando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe

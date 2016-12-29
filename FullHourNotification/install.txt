@@ -1,0 +1,16 @@
+To install
+
+Start > Visual Studio 2013 > Visual Studio Tools > Developer Command Prompt (Run as Administrator)
+
+
+cd C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release
+
+installutil FullHourNotification.exe
+
+Alter "Logon > Local System Account" if necessary
+
+To uninstall
+
+Run CMD as administrator
+
+sc delete FullHourNotification

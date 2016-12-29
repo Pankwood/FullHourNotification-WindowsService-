@@ -17,7 +17,7 @@ namespace FullHourNotification
             //http://stackoverflow.com/questions/4561479/timer-tick-event-is-not-called-in-windows-service
             Timer _timer = new Timer();
             // In miliseconds 60000 = 1 minute
-            _timer.Interval += 59000; //59 seconds
+            _timer.Interval += 1000; //1 second
             // Activate the timer
             _timer.Enabled = true;
             // When timer "tick"
@@ -26,6 +26,7 @@ namespace FullHourNotification
 
         protected override void OnStart(string[] args)
         {
+            SetupTimer();
         }
 
         private void _timer_Elapsed(object sender, ElapsedEventArgs e)
@@ -33,8 +34,8 @@ namespace FullHourNotification
             //Alert me each full hour(e.g 12h00, 13h00...)
             if (DateTime.Now.Minute == 00)
             {
-                AudioService myAudio = new AudioService();
-                myAudio.WASAPI(AppDomain.CurrentDomain.BaseDirectory + "alert.wav");
+                AudioService playMyAudio = new AudioService();
+                playMyAudio.WASAPI(AppDomain.CurrentDomain.BaseDirectory + "alert.wav");
             }
         }
 

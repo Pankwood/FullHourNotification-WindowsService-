@@ -8,3 +8,4 @@ c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullH
 c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.pdb
 C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\NAudio.dll
 C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\NAudio.xml
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\obj\Release\FullHourNotification.csprojResolveAssemblyReference.cache
