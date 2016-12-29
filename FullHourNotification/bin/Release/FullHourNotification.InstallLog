@@ -1,0 +1,29 @@
+﻿Instalando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Instalando o serviço FullHourNotification...
+Criando a origem de EventLog FullHourNotification no log Application...
+Revertendo o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Restaurando o log de eventos para o estado anterior da origem FullHourNotification.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+Instalando o serviço FullHourNotification...
+Serviço FullHourNotification foi instalado com êxito.
+Criando a origem de EventLog FullHourNotification no log Application...
+Confirmando o assembly 'C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.InstallLog
+   assemblypath = C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe

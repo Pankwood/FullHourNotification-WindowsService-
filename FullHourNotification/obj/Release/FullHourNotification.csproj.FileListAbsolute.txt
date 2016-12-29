@@ -1,0 +1,10 @@
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.exe.config
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\obj\Release\FullHourNotification.ProjectInstaller.resources
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\obj\Release\FullHourNotification.Service1.resources
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\obj\Release\FullHourNotification.csproj.GenerateResource.Cache
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\obj\Release\FullHourNotification.exe
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\obj\Release\FullHourNotification.pdb
+c:\users\danilo\documents\visual studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\FullHourNotification.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\NAudio.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\FullHourNotification\FullHourNotification\bin\Release\NAudio.xml
